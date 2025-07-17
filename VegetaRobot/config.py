@@ -17,12 +17,12 @@ class Config(object):
     # REQUIRED
     #Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 12345   # integer value, dont use ""
-    API_HASH = "awew"
-    TOKEN = "wow"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    API_ID = 18990697   # integer value, dont use ""
+    API_HASH = "f4815b9a16cb03c2f5eabe8db1cb0903"
+    TOKEN = "7011123946:AAGkDesX2kiuTH0j5_wP2XQJ015Ai2X4sMw"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     SQLALCHEMY_DATABASE_URI = "" #Use Your ElephantSQL
-    OWNER_ID = 1491497760  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "nandhaxd"
+    OWNER_ID = 6632519077  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "akito_yamada_xd"
     SUPPORT_CHAT = 'vegetasupport'  #Your own group for support, do not add the @
     UPDATES_CHANNEL = 'vegetaUpdates' #Your own channel for Updates of bot, Do not add @
     JOIN_LOGGER = -1001543354286  #Prints any new group the bot is added to, prints just the name and ID.
