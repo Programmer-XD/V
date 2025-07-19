@@ -4,7 +4,6 @@ aiohttp
 aiosignal
 apscheduler
 async-timeout
-attrify
 attrs
 bs4
 bing-image-downloader
