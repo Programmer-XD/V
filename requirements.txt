@@ -34,7 +34,6 @@ futures
 geographiclib
 geopy
 glitch-this
-google
 goslate
 gpytranslate
 gtts
