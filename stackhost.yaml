@@ -1,11 +1,9 @@
-
-
 user:
-  name: VegetaRobot
-  github: nandhaxd
+  name: akito
+  github: Programmer-XD 
 
 language: "python"
-python_version: "3.10"
+python_version: "3.13"
 
 commands:
   build:
@@ -13,7 +11,7 @@ commands:
   package:
     - "nano inxi"
   start:
-    - "python3 VegetaRobot"
+    - "python3 -m VegetaRobot"
 
 env:
   - "ENVIRONMENT=production"
