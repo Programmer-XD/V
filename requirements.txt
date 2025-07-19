@@ -31,7 +31,6 @@ fonttools
 frozenlist
 future
 futures
-ffmpeg
 geographiclib
 geopy
 glitch-this
